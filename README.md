@@ -1,3 +1,3 @@
 This is a Hello World Android app made with Android Studio
 
-<img width="385" height="753" alt="image" src="https://github.com/user-attachments/assets/7f1dca87-3792-432f-a7ec-7fddb69e83b2" />
+<img width="445" height="710" alt="image" src="https://github.com/user-attachments/assets/0a0dbf78-0c34-4f23-a905-bd81437fd6df" />
